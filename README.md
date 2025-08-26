@@ -1,6 +1,6 @@
 ﻿# Stop-Start-ECS-Automation-Lambda
 
-# Environment variables Lanbda
+# Environment variables Lambda
 
 Key = Value
 
