@@ -2,7 +2,7 @@
 
 # Environment variables Lambda
 
-Key = Value
+[Key] = [Value]
 
 Example:
 
